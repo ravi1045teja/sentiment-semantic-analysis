@@ -1,0 +1,1 @@
+'title': 'watch a swarm of robots build a timber tower from scratch', 'description': 'students at the university of stuttgart in germany have developed a system of robots that communicate to jointly construct complex timber structures. their paper, entitled distributed robotic assembly system for in situ timber construction, envisions such rob', 'content': 'nan'
